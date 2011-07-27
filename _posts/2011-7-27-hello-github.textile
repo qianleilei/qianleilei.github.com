@@ -1,0 +1,17 @@
+h2. 在github上的第一篇blog
+
+p. 第一次用textile，不知道怎么样。试试看咯
+
+Sample List:
+
+#{color:blue} 列表
+#列表2
+#列表3
+
+多级列表
+#one
+##haha
+##yoyo
+#two
+##yameidei
+##haha
